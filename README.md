@@ -42,8 +42,8 @@ Fake news has become a major issue in the digital age. This project is an end-to
    <pre lang="markdown"> bash 
       git clone https://github.com/akncodes/Fake_News-Detector.git
       cd Fake_News-Detector </pre>
-   
-3. Set up a virtual environment (recommended)
+
+2. Set up a virtual environment (recommended)
    <pre lang="markdown"> bash 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate </pre>
