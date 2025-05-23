@@ -72,8 +72,4 @@ Contributions are welcome! Here's how:
 
 -Open a Pull Request
 
-📄 License
-This project is licensed under the MIT License
 
-👤 Author
-@akncodes
