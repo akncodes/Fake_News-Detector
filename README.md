@@ -44,14 +44,20 @@ Fake news has become a major issue in the digital age. This project is an end-to
       cd Fake_News-Detector``` </pre>
    
 3. Set up a virtual environment (recommended)
+   <pre lang="markdown"> ```bash 
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source venv/bin/activate  # On Windows: venv\Scripts\activate``` </pre>
+   
 3.Install the required dependencies
-   pip install -r requirements.txt
+    <pre lang="markdown"> ```bash 
+   pip install -r requirements.txt``` </pre>
+   
 4.🚀 Run Frontend Locally
-  cd Frontend
+    <pre lang="markdown"> ```bash 
+   cd Frontend
   npm install
-  npm start
+  npm start``` </pre>
+  
 
 🤝 Contributing
 Contributions are welcome! Here's how:
