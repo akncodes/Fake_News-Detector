@@ -31,22 +31,22 @@ Fake news has become a major issue in the digital age. This project is an end-to
 - **Pandas** – Data loading and manipulation
 - **Pickle** – Model and vectorizer serialization
 
-###🎨 Frontend – Tech Stack
+### 🎨 Frontend – Tech Stack
 **React.js – Component-based UI**
 
 **JavaScript (ES6+)**
 
 **Tailwind CSS – Styling**
 
-1. **Clone the repository*
-   <pre lang="markdown"> bash 
+1. **Clone the repository**
+   <pre lang="markdown">``` bash 
       git clone https://github.com/akncodes/Fake_News-Detector.git
-      cd Fake_News-Detector </pre>
+      cd Fake_News-Detector ```</pre>
    
 3. Set up a virtual environment (recommended)
-   <pre lang="markdown"> bash 
+   <pre lang="markdown">``` bash 
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate </pre>
+   source venv/bin/activate  # On Windows: venv\Scripts\activate ``` </pre>
    
 3.Install the required dependencies
     <pre lang="markdown"> ```bash 
