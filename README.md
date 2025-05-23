@@ -38,7 +38,7 @@ Fake news has become a major issue in the digital age. This project is an end-to
 
 **Tailwind CSS – Styling**
 
-1. **Clone the repository**
+1. Clone the repository
    <pre lang="markdown"> bash 
       git clone https://github.com/akncodes/Fake_News-Detector.git
       cd Fake_News-Detector </pre>
@@ -62,15 +62,15 @@ Fake news has become a major issue in the digital age. This project is an end-to
 🤝 Contributing
 Contributions are welcome! Here's how:
 
-Fork the repo
+-Fork the repo
 
-Create your branch: git checkout -b feature/YourFeature
+-Create your branch: git checkout -b feature/YourFeature
 
-Commit your changes: git commit -m "Add feature"
+-Commit your changes: git commit -m "Add feature"
 
-Push to the branch: git push origin feature/YourFeature
+-Push to the branch: git push origin feature/YourFeature
 
-Open a Pull Request
+-Open a Pull Request
 
 📄 License
 This project is licensed under the MIT License
